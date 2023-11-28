@@ -1,0 +1,3 @@
+payload:
+  - '+.nyhgjmlg.xyz'
+  - '+.xfztgxt.com'
