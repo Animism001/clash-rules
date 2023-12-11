@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,OneDrive.exe
   - PROCESS-NAME,msedgewebview2.exe
   - PROCESS-NAME,Microsoft.Notes.exe
   - PROCESS-NAME,hysteria
