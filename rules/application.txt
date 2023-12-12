@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,ONENOTE.EXE
   - PROCESS-NAME,Todo.exe
   - PROCESS-NAME,OneDrive.exe
   - PROCESS-NAME,msedgewebview2.exe
