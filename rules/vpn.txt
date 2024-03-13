@@ -1,4 +1,6 @@
 payload:
+#cloudfare
+  - '+.cloudflare.com'
 # OpenAI
   - '+.chatgpt.com'
   - '*openai'
