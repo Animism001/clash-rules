@@ -18,3 +18,7 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
+  - '+.ora.ai'
+  - '+.character.ai'
+  - '+.chat.forefront.ai'
+  - '+.poe.com'
