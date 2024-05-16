@@ -18,8 +18,11 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
+# Others
+  - '+.lmsys.org'
+  - '+.llama2.ai'
   - '+.ora.ai'
   - '+.character.ai'
   - '+.chat.forefront.ai'
   - '+.poe.com'
-  - '+.lmsys.org'
+
