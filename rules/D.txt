@@ -1,7 +1,22 @@
 payload:
+# DOMAIN 域名规则
   - 'clash.razord.top'
   - 'yacd.haishan.me'
-  - '+.rawchat.cc'
   - 'msn.cn'
   - 'freeok.vip'
   - 'login.microsoftonline.com'
+
+# DOMAIN-SUFFIX 域名后缀规则
+  - '+.rawchat.cc'
+
+# DOMAIN-KEYWORD 域名关键字规则
+
+# PROCESS-NAME
+  - PROCESS-NAME,svchost.exe
+  - PROCESS-NAME,EXCEL.EXE
+  - PROCESS-NAME,ONENOTE.EXE
+  - PROCESS-NAME,WINWORD.EXE
+  - PROCESS-NAME,msedgewebview2.exe
+  - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,Todo.exe
+  - PROCESS-NAME,Microsoft.Notes.exe
