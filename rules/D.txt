@@ -1,2 +1,5 @@
 payload:
-  - 'chat.rawchat.cc'
+  - 'clash.razord.top'
+  - 'yacd.haishan.me'
+  - '+.rawchat.cc'
+  - 'msn.cn'
