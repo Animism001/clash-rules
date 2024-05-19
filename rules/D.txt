@@ -3,3 +3,5 @@ payload:
   - 'yacd.haishan.me'
   - '+.rawchat.cc'
   - 'msn.cn'
+- 'freeok.vip'
+- 'login.microsoftonline.com'
