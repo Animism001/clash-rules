@@ -1,5 +1,5 @@
 payload:
-  - 'bing.com'
+  - '+.bing.com'
   - 'msn.com'
   - 'copilot.microsoft.com'
   - 'designer.microsoft.com'
