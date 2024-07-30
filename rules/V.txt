@@ -1,6 +1,7 @@
 payload:
 #cloudfare
   - '+.cloudflare.com'
+  - '+.workers.dev'
   - '+.pages.dev'
   - '+.cloudflare.dev'
 # OpenAI
@@ -27,4 +28,7 @@ payload:
   - '+.character.ai'
   - '+.chat.forefront.ai'
   - '+.poe.com'
+  - '+.jdbstatic.com'
+  - '*javdb'
+
 
