@@ -1,15 +1,24 @@
 payload:
 # DOMAIN 域名规则
+#  - '.'
   - 'clash.razord.top'
   - 'yacd.haishan.me'
   - 'msn.cn'
   - 'freeok.vip'
   - 'login.microsoftonline.com'
 
-# DOMAIN-SUFFIX 域名后缀规则
-  - '+.rawchat.cc'
 
-# DOMAIN-KEYWORD 域名关键字规则
+# DOMAIN-SUFFIX 域名后缀规则
+#  - '+.'
+  - '+.rawchat.cc'
+  - '+.24fa.com'
+  - '+.2468.one'
+  - '+.24qq.cc'
+  - '+.269.one'
+  - '+.818.mom'
+
+# DOMAIN-KEYWORD 域名关键字规则,例如  - '*javdb'
+#  - '*'
 
 # PROCESS-NAME
   - PROCESS-NAME,svchost.exe
