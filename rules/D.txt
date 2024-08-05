@@ -17,7 +17,7 @@ payload:
   - '+.269.one'
   - '+.818.mom'
 
-# DOMAIN-KEYWORD 域名关键字规则,例如  - '*javdb'
+# DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
 
 # PROCESS-NAME
