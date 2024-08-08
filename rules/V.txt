@@ -29,6 +29,6 @@ payload:
   - '+.chat.forefront.ai'
   - '+.poe.com'
   - '+.jdbstatic.com'
-  - '*javdb'
+  - '+.javdb.com'
 
 
