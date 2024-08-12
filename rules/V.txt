@@ -23,6 +23,8 @@ payload:
   - 'chat.openai.com.cdn.cloudflare.net'
 # Others
   - '+.lmsys.org'
+  - '+.suno.com'
+  - '+.suno.ai'
   - '+.llama2.ai'
   - '+.ora.ai'
   - '+.character.ai'
