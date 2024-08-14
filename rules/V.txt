@@ -22,6 +22,7 @@ payload:
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
 # Others
+  - '+.claude.ai'
   - '+.lmsys.org'
   - '+.suno.com'
   - '+.suno.ai'
