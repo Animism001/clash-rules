@@ -1,0 +1,3 @@
+payload:
+  - '+.jdbstatic.com'
+  - '+.javdb.com'
