@@ -18,3 +18,4 @@ payload:
   - 'geoip,netflix'
   - 'geoip,telegram'
   - 'geoip,twitter'
+  - '7707bo.pjxinaoshuijing.com'
