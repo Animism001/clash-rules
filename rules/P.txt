@@ -19,3 +19,4 @@ payload:
   - 'geoip,telegram'
   - 'geoip,twitter'
   - '7707bo.pjxinaoshuijing.com'
+  - '7707bo.trustdeveloppment.com'
