@@ -21,7 +21,7 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
-# Others
+# AI
   - '+.claude.ai'
   - '+.lmsys.org'
   - '+.suno.com'
@@ -31,5 +31,9 @@ payload:
   - '+.character.ai'
   - '+.chat.forefront.ai'
   - '+.poe.com'
+# Others
+  - '+.v2free.top'
+  - '+.emovpns.top'
+  - '+.missav.com'
   - '+.jdbstatic.com'
   - '+.javdb.com'
