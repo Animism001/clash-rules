@@ -11,12 +11,7 @@ payload:
 
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
-  - '+.rawchat.cc'
-  - '+.24fa.com'
-  - '+.2468.one'
-  - '+.24qq.cc'
-  - '+.269.one'
-  - '+.818.mom'
+  - '+.rawchat.top'
 
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
