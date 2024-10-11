@@ -15,9 +15,6 @@ payload:
   - '+.v2free.top'
   - '+.emovpns.top'
   - '302.886511.xyz'
-#cloudfare
-  - '+.pages.dev'
-  - '+.cloudflare.dev'
 # Others
   - 'geosite,gfw'
   - 'geosite,greatfire'
