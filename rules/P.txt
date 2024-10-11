@@ -19,6 +19,7 @@ payload:
   - 'geosite,gfw'
   - 'geosite,greatfire'
   - 'geosite,tld-!cn'
+  - 'geosite,cloudflare'
   - 'geoip,cloudflare'
   - 'geoip,cloudfront'
   - 'geoip,facebook'
@@ -27,3 +28,5 @@ payload:
   - 'geoip,netflix'
   - 'geoip,telegram'
   - 'geoip,twitter'
+  #- 'geoip,microsoft'
+  #- 'geoip,MSN
