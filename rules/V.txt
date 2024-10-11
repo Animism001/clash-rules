@@ -1,9 +1,4 @@
 payload:
-#cloudfare
-  - '+.cloudflare.com'
-  - '+.workers.dev'
-  - '+.pages.dev'
-  - '+.cloudflare.dev'
 # OpenAI
   - '+.chatgpt.com'
   - '*openai'
@@ -21,17 +16,3 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
-# AI
-  - '+.claude.ai'
-  - '+.lmsys.org'
-  - '+.suno.com'
-  - '+.suno.ai'
-  - '+.llama2.ai'
-  - '+.ora.ai'
-  - '+.character.ai'
-  - '+.chat.forefront.ai'
-  - '+.poe.com'
-# 🛫
-  - '+.v2free.top'
-  - '+.emovpns.top'
-  - '302.886511.xyz'
