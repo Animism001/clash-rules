@@ -11,6 +11,10 @@ payload:
   - '+.character.ai'
   - '+.chat.forefront.ai'
   - '+.novelai.net'
+#JAV
+  - '+.hanime1.me'
+  - '+.jable.tv'
+  - '+.s2.yxy57.icu'
 # 🛫
   - '+.v2free.top'
   - '+.emovpns.top'
