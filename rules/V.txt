@@ -35,6 +35,3 @@ payload:
   - '+.v2free.top'
   - '+.emovpns.top'
   - '302.886511.xyz'
-  - '+.missav.com'
-  - '+.jdbstatic.com'
-  - '+.javdb.com'
