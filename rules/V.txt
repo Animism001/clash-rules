@@ -31,7 +31,7 @@ payload:
   - '+.character.ai'
   - '+.chat.forefront.ai'
   - '+.poe.com'
-# Others
+# 🛫
   - '+.v2free.top'
   - '+.emovpns.top'
   - '302.886511.xyz'
