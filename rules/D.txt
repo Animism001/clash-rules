@@ -7,7 +7,6 @@ payload:
   - 'freeok.vip'
   - 'login.microsoftonline.com'
   - 'm.axs6.com'
-  - 'www.e-yck.top'
 
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
