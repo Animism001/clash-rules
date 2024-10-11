@@ -16,6 +16,15 @@ payload:
   - '+.poe.com'
   - '+.qwant.com'
   - '+.novelai.net'
+# 🛫
+  - '+.v2free.top'
+  - '+.emovpns.top'
+  - '302.886511.xyz'
+#cloudfare
+  - '+.cloudflare.com'
+  - '+.workers.dev'
+  - '+.pages.dev'
+  - '+.cloudflare.dev'
 # JAV
   - '+.missav.com'
 # Others
