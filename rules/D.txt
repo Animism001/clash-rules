@@ -11,6 +11,6 @@ payload:
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
   - '+.rawchat.top'
-
+  - '+.githubusercontent.com'
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
