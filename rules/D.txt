@@ -9,11 +9,11 @@ payload:
   - 'm.axs6.com'
   - 'lmarena.ai'
 
-
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
   - '+.rawchat.top'
   - '+.githubusercontent.com'
   - '+.openrouter.ai'
+  - '+.qwenlm.ai'
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
