@@ -8,6 +8,7 @@ payload:
   - 'login.microsoftonline.com'
   - 'm.axs6.com'
   - 'lmarena.ai'
+  - 'copyleaks.top'
 
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
