@@ -16,6 +16,8 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
+# other
+  - '+.suno.com'
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
