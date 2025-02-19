@@ -18,6 +18,7 @@ payload:
   - 'chat.openai.com.cdn.cloudflare.net'
 # other
   - '+.suno.com'
+  - '+.suno.ai'
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
