@@ -19,6 +19,7 @@ payload:
 # other
   - '+.suno.com'
   - '+.suno.ai'
+  - '+.hcaptcha.com'
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
