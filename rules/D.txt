@@ -9,7 +9,7 @@ payload:
   - 'm.axs6.com'
   - 'lmarena.ai'
   - 'copyleaks.top'
-
+  - 'linux.do'
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
   - '+.rawchat.top'
