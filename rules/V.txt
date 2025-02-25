@@ -1,5 +1,6 @@
 payload:
-# OpenAI
+# OpenAI   
+#  - '+.'
   - '+.chatgpt.com'
   - '*openai'
   - '+.auth0.com'
@@ -20,6 +21,8 @@ payload:
   - '+.suno.com'
   - '+.suno.ai'
   - '+.hcaptcha.com'
+  - '+.grok.com'
+
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
