@@ -22,7 +22,7 @@ payload:
   - '+.suno.ai'
   - '+.hcaptcha.com'
   - '+.grok.com'
-
+  - 'flowith.io'
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
