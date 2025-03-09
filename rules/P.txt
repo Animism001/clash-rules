@@ -12,15 +12,14 @@ payload:
   - '+.chat.forefront.ai'
   - '+.novelai.net'
   - '+.groq.com'
-  - 'flowith.io'
 #JAV
   - '+.hanime1.me'
   - '+.jable.tv'
-  - '+.s2.yxy57.icu'
-# 🛫
+  - '+.s2.yxy57.icu'  - '+.s2.yxy57.icu'
+# 🛫# 🛫
   - '+.v2free.top'
   - '+.emovpns.top'
-  - '302.886511.xyz'
+  - '302.886511.xyz'  - '302.886511.xyz'
 # Others
   - 'geosite,gfw'
   - 'geosite,greatfire'
