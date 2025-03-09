@@ -10,11 +10,14 @@ payload:
   - 'lmarena.ai'
   - 'copyleaks.top'
   - 'linux.do'
+  - 'kkvvastv.uk'
+
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
   - '+.rawchat.top'
   - '+.githubusercontent.com'
   - '+.openrouter.ai'
   - '+.qwenlm.ai'
+  - '+.hjak.org'
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
