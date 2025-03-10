@@ -11,7 +11,7 @@ payload:
   - 'copyleaks.top'
   - 'linux.do'
   - 'kkvvastv.uk'
-
+  - 'camel-ai.org'
 # DOMAIN-SUFFIX 域名后缀规则
 #  - '+.'
   - '+.rawchat.top'
