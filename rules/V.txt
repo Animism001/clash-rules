@@ -23,6 +23,7 @@ payload:
   - '+.hcaptcha.com'
   - '+.grok.com'
   - 'flowith.io'
+  - '+.flowith.net'
   - '+.supabase.co'
 # Cloudflare
   - 'geosite,cloudflare'
