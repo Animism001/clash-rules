@@ -13,11 +13,12 @@ payload:
   - 'kkvvastv.uk'
   - 'camel-ai.org'
 # DOMAIN-SUFFIX 域名后缀规则
-#  - '+.'
+#
   - '+.rawchat.top'
   - '+.githubusercontent.com'
   - '+.openrouter.ai'
   - '+.qwenlm.ai'
   - '+.hjak.org'
+  - '+.cherry-ai.com'
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
