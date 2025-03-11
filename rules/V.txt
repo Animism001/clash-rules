@@ -23,8 +23,9 @@ payload:
   - '+.hcaptcha.com'
   - '+.grok.com'
   - 'flowith.io'
-  - '+.flowith.net'
+  - '+.flowith.io'
   - '+.supabase.co'
+  - '+.flowith.net'
 # Cloudflare
   - 'geosite,cloudflare'
   - 'geoip,cloudflare'
