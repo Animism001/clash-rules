@@ -12,6 +12,7 @@ payload:
   - 'linux.do'
   - 'kkvvastv.uk'
   - 'camel-ai.org'
+
 # DOMAIN-SUFFIX 域名后缀规则
 #
   - '+.rawchat.top'
@@ -20,5 +21,7 @@ payload:
   - '+.qwenlm.ai'
   - '+.hjak.org'
   - '+.cherry-ai.com'
+  - '+.ffa.chat'
+
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
