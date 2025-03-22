@@ -27,7 +27,6 @@ payload:
   - '+.supabase.co'
 #  - '+.flowith.net'
 
-
 # Cloudflare
   - '+.cloudflare.com'
   - 'geosite,cloudflare'
