@@ -22,10 +22,12 @@ payload:
   - '+.suno.ai'
   - '+.hcaptcha.com'
   - '+.grok.com'
-  - 'flowith.io'
   - '+.flowith.io'
+  - 'character.ai'
   - '+.supabase.co'
-  - '+.flowith.net'
+#  - '+.flowith.net'
+
+
 # Cloudflare
   - '+.cloudflare.com'
   - 'geosite,cloudflare'
