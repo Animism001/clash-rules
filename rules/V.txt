@@ -25,7 +25,6 @@ payload:
   - '+.flowith.io'
   - 'character.ai'
   - '+.supabase.co'
-#  - '+.flowith.net'
 
 # Cloudflare
   - '+.cloudflare.com'
