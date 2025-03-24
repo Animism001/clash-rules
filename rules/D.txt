@@ -12,6 +12,7 @@ payload:
   - 'linux.do'
   - 'kkvvastv.uk'
   - 'camel-ai.org'
+  - 'flowith.net'
 
 # DOMAIN-SUFFIX 域名后缀规则
 #
