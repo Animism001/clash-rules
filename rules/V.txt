@@ -29,5 +29,7 @@ payload:
 
 # Cloudflare
   - '+.cloudflare.com'
-  - 'geosite,cloudflare'
-  - 'geoip,cloudflare'
+  - '+.cloudflare.dev'
+  - '+.workers.dev'
+#  - 'geosite,cloudflare'
+#  - 'geoip,cloudflare'
