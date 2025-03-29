@@ -13,6 +13,7 @@ payload:
   - 'kkvvastv.uk'
   - 'camel-ai.org'
   - '+.flowith.net'
+  - '+.gqc7.top'
 
 # DOMAIN-SUFFIX 域名后缀规则
 #
