@@ -28,6 +28,7 @@ payload:
   - '+.x.ai'
 
 # Cloudflare
+  - '*cloudflare'
   - '+.cloudflare.com'
   - '+.cloudflare.dev'
   - '+.workers.dev'
