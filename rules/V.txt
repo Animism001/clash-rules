@@ -17,7 +17,9 @@ payload:
   - '+.stripe.com'
   - 'cdn.oaistatic.com'
   - 'chat.openai.com.cdn.cloudflare.net'
+
 # other
+
   - '+.suno.com'
   - '+.suno.ai'
   - '+.hcaptcha.com'
@@ -26,6 +28,7 @@ payload:
   - 'character.ai'
   - '+.supabase.co'
   - '+.x.ai'
+  - '+.genspark.ai'
 
 # Cloudflare
   - '*cloudflare'
