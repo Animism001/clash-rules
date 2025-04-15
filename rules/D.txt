@@ -16,7 +16,9 @@ payload:
   - '+.gqc7.top'
 
 # DOMAIN-SUFFIX 域名后缀规则
-#
+# CNAI
+  - '+.z.ai'
+# Others
   - '+.rawchat.top'
   - '+.githubusercontent.com'
   - '+.openrouter.ai'
