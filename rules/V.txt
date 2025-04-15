@@ -19,7 +19,7 @@ payload:
   - 'chat.openai.com.cdn.cloudflare.net'
 
 # other
-
+  - '+.claude.ai'
   - '+.suno.com'
   - '+.suno.ai'
   - '+.hcaptcha.com'
