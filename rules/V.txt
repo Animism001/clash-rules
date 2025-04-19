@@ -25,6 +25,7 @@ payload:
   - '+.hcaptcha.com'
   - '+.grok.com'
   - '+.flowith.io'
+  - '+.flowith.net'
   - 'character.ai'
   - '+.supabase.co'
   - '+.x.ai'
