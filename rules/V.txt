@@ -30,7 +30,6 @@ payload:
   - '+.supabase.co'
   - '+.x.ai'
   - '+.genspark.ai'
-  - '+.ffa.chat'
 
 # Cloudflare
   - '*cloudflare'
