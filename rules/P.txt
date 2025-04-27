@@ -12,6 +12,7 @@ payload:
   - '+.chat.forefront.ai'
   - '+.novelai.net'
   - '+.groq.com'
+  - '+.ffa.chat'
 #JAV
   - '+.hanime1.me'
   - '+.jable.tv'
