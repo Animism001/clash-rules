@@ -9,7 +9,7 @@ payload:
   - 'm.axs6.com'
   - 'lmarena.ai'
   - 'copyleaks.top'
-  - 'linux.do'
+  - '+.linux.do'
   - 'kkvvastv.uk'
   - 'camel-ai.org'
   - '+.flowith.net'
