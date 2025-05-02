@@ -7,3 +7,4 @@ payload:
   - PROCESS-NAME,OneDrive.exe
   - PROCESS-NAME,Todo.exe
   - PROCESS-NAME,Microsoft.Notes.exe
+  - PROCESS-NAME,notion.exe
