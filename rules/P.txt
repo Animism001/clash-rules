@@ -23,7 +23,6 @@ payload:
   - '+.emovpns.top'
   - '302.886511.xyz'
 # Others
-  - '+.gist.build'
   - 'geosite,gfw'
   - 'geosite,greatfire'
   - 'geosite,tld-!cn'
