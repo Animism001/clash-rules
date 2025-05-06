@@ -30,6 +30,8 @@ payload:
   - '+.supabase.co'
   - '+.x.ai'
   - '+.genspark.ai'
+  - '+.groq.com'
+  - '+.lmarena.ai'
 
 # Cloudflare
   - '*cloudflare'
