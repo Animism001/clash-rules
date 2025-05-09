@@ -15,6 +15,7 @@ payload:
   - '+.flowith.net'
   - '+.gqc7.top'
   - '+.notion.so'
+  - '+.notion.com'
 
 # DOMAIN-SUFFIX 域名后缀规则
 # CNAI
