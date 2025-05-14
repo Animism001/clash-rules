@@ -32,6 +32,8 @@ payload:
   - '+.genspark.ai'
   - '+.groq.com'
   - '+.lmarena.ai'
+  - '+.one.one.one'
+
 
 # Cloudflare
   - '*cloudflare'
