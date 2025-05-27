@@ -31,6 +31,8 @@ payload:
   - '+.groq.com'
   - '+.lmarena.ai'
   - '+.one.one.one'
+  - '+.n8n.io'
+  - '+.dify.ai'
 
 # flowith
   - '+.flowith.io'
