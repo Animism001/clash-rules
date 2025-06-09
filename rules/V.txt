@@ -33,7 +33,7 @@ payload:
   - '+.one.one.one'
   - '+.n8n.io'
   - '+.dify.ai'
-  - 'perplexity.ai'
+  - '+.perplexity.ai'
   - 'portx.cc'
 
 # flowith
