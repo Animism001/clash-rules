@@ -35,7 +35,7 @@ payload:
   - '+.dify.ai'
   - '+.perplexity.ai'
   - 'portx.cc'
-
+  - '*zlib'
 # flowith
   - '+.flowith.io'
   - '+.flowith.net'
