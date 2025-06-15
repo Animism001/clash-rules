@@ -16,6 +16,7 @@ payload:
   - '+.gqc7.top'
   - '+.notion.so'
   - '+.notion.com'
+  - '+.nines-ai.com'
 
 # DOMAIN-SUFFIX 域名后缀规则
 # CNAI
