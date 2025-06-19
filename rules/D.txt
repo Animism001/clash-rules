@@ -22,6 +22,8 @@ payload:
 # CNAI
   - '+.z.ai'
   - '+.qwen.ai'
+  - '+.minimax.io'
+
 # Others
   - '+.rawchat.top'
   - '+.githubusercontent.com'
