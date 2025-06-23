@@ -37,6 +37,7 @@ payload:
   - 'portx.cc'
   - '+.zlib.*'
   - '+.zlibrary.*'
+  - '+.xinghexiezuo.xyz'
 
 # flowith
   - '+.flowith.io'
