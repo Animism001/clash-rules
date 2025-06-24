@@ -23,6 +23,7 @@ payload:
   - '+.z.ai'
   - '+.qwen.ai'
   - '+.minimax.io'
+  - '*minimax'
 
 # Others
   - '+.rawchat.top'
