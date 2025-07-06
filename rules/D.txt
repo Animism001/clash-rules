@@ -17,6 +17,7 @@ payload:
   - '+.notion.so'
   - '+.notion.com'
   - '+.nines-ai.com'
+  - 'gemini.u14.app'
 
 # DOMAIN-SUFFIX 域名后缀规则
 # CNAI
