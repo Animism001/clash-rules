@@ -1,0 +1,267 @@
+
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: false
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 114.114.114.114
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+proxies:
+- name: CF_V8_usa.visa.com_443
+  type: vless
+  server: usa.visa.com
+  port: 443
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V9_myanmar.visa.com_8443
+  type: vless
+  server: myanmar.visa.com
+  port: 8443
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V10_www.visa.com.tw_2053
+  type: vless
+  server: www.visa.com.tw
+  port: 2053
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V11_www.visaeurope.ch_2083
+  type: vless
+  server: www.visaeurope.ch
+  port: 2083
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V12_www.visa.com.br_2087
+  type: vless
+  server: www.visa.com.br
+  port: 2087
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V13_www.visasoutheasteurope.com_2096
+  type: vless
+  server: www.visasoutheasteurope.com
+  port: 2096
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V8_优选IP
+  type: vless
+  server: 104.16.111.223
+  port: 443
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V9_优选IP
+  type: vless
+  server: 104.19.52.178
+  port: 8443
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V10_优选IP
+  type: vless
+  server: 104.19.192.61
+  port: 2053
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V11_优选IP
+  type: vless
+  server: 104.18.243.41
+  port: 2083
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+- name: CF_V12_优选IP
+  type: vless
+  server: 104.16.251.53
+  port: 2087
+  uuid: 2c225305-0a40-4565-a234-e771d5b744d8
+  udp: false
+  tls: true
+  network: ws
+  servername: lingticat.dpdns.org
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      Host: lingticat.dpdns.org
+
+proxy-groups:
+- name: 优选域名
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies:
+    - CF_V8_usa.visa.com_443
+    - CF_V9_myanmar.visa.com_8443
+    - CF_V10_www.visa.com.tw_2053
+    - CF_V11_www.visaeurope.ch_2083
+    - CF_V12_www.visa.com.br_2087
+    - CF_V13_www.visasoutheasteurope.com_2096
+
+- name: 优选IP
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies:
+    - CF_V8_优选IP
+    - CF_V9_优选IP
+    - CF_V10_优选IP
+    - CF_V11_优选IP
+    - CF_V12_优选IP
+
+- name: 负载均衡
+  type: load-balance
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies:
+    - CF_V8_usa.visa.com_443
+    - CF_V9_myanmar.visa.com_8443
+    - CF_V10_www.visa.com.tw_2053
+    - CF_V11_www.visaeurope.ch_2083
+    - CF_V12_www.visa.com.br_2087
+    - CF_V13_www.visasoutheasteurope.com_2096
+    - CF_V8_优选IP
+    - CF_V9_优选IP
+    - CF_V10_优选IP
+    - CF_V11_优选IP
+    - CF_V12_优选IP
+
+- name: 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - CF_V8_usa.visa.com_443
+    - CF_V9_myanmar.visa.com_8443
+    - CF_V10_www.visa.com.tw_2053
+    - CF_V11_www.visaeurope.ch_2083
+    - CF_V12_www.visa.com.br_2087
+    - CF_V13_www.visasoutheasteurope.com_2096
+    - CF_V8_优选IP
+    - CF_V9_优选IP
+    - CF_V10_优选IP
+    - CF_V11_优选IP
+    - CF_V12_优选IP
+
+- name: 🌍选择代理
+  type: select
+  proxies:
+    - 优选域名
+    - 优选IP
+    - 负载均衡
+    - 自动选择
+    - DIRECT
+    - CF_V8_usa.visa.com_443
+    - CF_V9_myanmar.visa.com_8443
+    - CF_V10_www.visa.com.tw_2053
+    - CF_V11_www.visaeurope.ch_2083
+    - CF_V12_www.visa.com.br_2087
+    - CF_V13_www.visasoutheasteurope.com_2096
+    - CF_V8_优选IP
+    - CF_V9_优选IP
+    - CF_V10_优选IP
+    - CF_V11_优选IP
+    - CF_V12_优选IP
+
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理
