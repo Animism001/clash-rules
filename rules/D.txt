@@ -25,6 +25,7 @@ payload:
   - '+.qwen.ai'
   - '+.minimax.io'
   - '+.hailuo.ai'
+  - 'qoder.com'
 
 # Others
   - '+.rawchat.top'
