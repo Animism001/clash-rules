@@ -24,6 +24,7 @@ payload:
   - '+.q.quuvv.cn'
   - '+.kkyyxx.xyz'
   - '+.x666.me'
+  - 'sukaka.ai6.me'
 # 机场
   - 'clash.razord.top'
   - 'yacd.haishan.me'
