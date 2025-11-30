@@ -18,8 +18,28 @@ payload:
   - '+.notion.com'
   - '+.nines-ai.com'
   - 'gemini.u14.app'
-
-# DOMAIN-SUFFIX 域名后缀规则
+  - '+.z.ai'
+  - '+.qwenlm.ai'
+  - '+.qwen.ai'
+  - '+.minimax.io'
+  - '+.hailuo.ai'
+  - '+.qoder.com'
+  - '+.rawchat.top'
+  - '+.wxdown.online'
+  - '+.hf.space'
+  - '+.notion.com'
+  - '+.notion.so'
+  - '+.ai-wave.org'
+  - '+.elysia.h-e.top'
+  - '+.5202030.xyz'
+  - '+.kyx03.de'
+  - '+.lvis.lol'
+  - '+.q.quuvv.cn'
+  - '+.wxdown.online'
+  - '+.kkyyxx.xyz'
+  - '+.x666.me'
+  - 'portal.eask.ink'
+  - 'kkvvastv.uk'
 # CNAI
   - '+.z.ai'
   - '+.qwen.ai'
@@ -35,7 +55,6 @@ payload:
   - '+.hjak.org'
   - '+.cherry-ai.com'
   - '+.bijianchuanqi.com'
-
 
 # DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
 #  - '*'
