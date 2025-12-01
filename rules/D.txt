@@ -37,7 +37,7 @@ payload:
   - '+.onrender.com'
   - '+.529961.com'
   - '+.dev88.tech'
-  - '+tbai.xin'
+  - '+.tbai.xin'
   - '+.u4vr.com'
   - '+.123nhh.xyz'
   - '+.codelib.re'
