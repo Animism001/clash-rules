@@ -34,7 +34,6 @@ payload:
   - '+.n8n.io'
   - '+.dify.ai'
   - '+.perplexity.ai'
-  - 'portx.cc'
   - '+.zlib.*'
   - '+.zlibrary.*'
   - '+.xinghexiezuo.xyz'
