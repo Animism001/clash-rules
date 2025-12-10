@@ -23,10 +23,12 @@ payload:
   - '+.suno.com'
   - '+.suno.ai'
   - '+.hcaptcha.com'
+  - '+.x.com'
+  - '+.x.ai'
   - '+.grok.com'
+  - 'auth.grokusercontent.com'
   - 'character.ai'
   - '+.supabase.co'
-  - '+.x.ai'
   - '+.genspark.ai'
   - '+.groq.com'
   - '+.lmarena.ai'
@@ -34,9 +36,11 @@ payload:
   - '+.n8n.io'
   - '+.dify.ai'
   - '+.perplexity.ai'
+  - 'portx.cc'
   - '+.zlib.*'
   - '+.zlibrary.*'
   - '+.xinghexiezuo.xyz'
+
 
 # flowith
   - '+.flowith.io'
@@ -50,5 +54,6 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.dev'
   - '+.workers.dev'
+  - '+.pages.dev'
 #  'geosite,cloudflare'
 #  'geoip,cloudflare'
