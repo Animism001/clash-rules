@@ -1,2 +1,3 @@
-- '+.claude.ai'
-- 'arena.ai'
+payload:
+  - '+.claude.ai'
+  - 'arena.ai'
