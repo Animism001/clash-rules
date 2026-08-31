@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN,linux.do
-  - DOMAIN,connect.linux.do
-  - DOMAIN,cdk.linux.do
-  - DOMAIN,credit.linux.do
-  - DOMAIN-SUFFIX,idcflare.com
-  - IP-CIDR,104.20.16.234/32
-  - IP-CIDR,172.66.166.61/32
+  - '+.linux.do'
+  - '+.idcflare.com'
+  - '104.20.16.234/32'
+  - '172.66.166.61/32'
+#  - 'linux.do'
+#  - 'connect.linux.do'
+#  - 'cdk.linux.do'
+#  - 'credit.linux.do'
