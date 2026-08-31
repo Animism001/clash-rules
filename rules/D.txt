@@ -1,6 +1,7 @@
 payload:
 # 语法
 ## DOMAIN-KEYWORD 域名关键字规则,例如  - '*openai'
+  - '+.animism.dpdns.org'
 ## CNAI
   - '+.hailuo.ai'
   - '+.minimax.io'
