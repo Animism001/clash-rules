@@ -101,8 +101,7 @@ payload:
   - '+.sharedchat.cc'
   - '+.cafecode.work'
 
-
-# cloudflared
+# cloudflare
   - '+.argotunnel.com'
 #  - '+.animism.dpdns.org'
 #  - '+.cloudflare.com'
